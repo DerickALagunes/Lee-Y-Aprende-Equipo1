@@ -1,0 +1,28 @@
+/*
+Hecho por Axel Lagunes.
+*/
+/* 
+    Created on : 8/06/2014, 02:30:37 PM
+    Author     : derick
+*/
+
+body{
+    background-color: #EFCB6F;
+    background-image: url("../images/fondo.jpg");
+}
+
+
+/*  a:link - a normal, unvisited link
+    a:visited - a link the user has visited
+    a:hover - a link when the user mouses over it
+    a:active - a link the moment it is clicked
+*/
+
+a:hover,a:link,a:visited
+{color: black;}
+
+.cuerpo{
+    
+    background-color: whitesmoke;
+    
+}

@@ -1,0 +1,50 @@
+Todo viene aqui(en el  disco).
+
+puede tener problemas al abrir el projecto por las librerias
+solo tiene que decirle al proyecto que esta en la carpeta
+"Librerias para aplicaiones" que viene incluida en el disco.
+
+Lamentamos si causamos problemas.
+
+notas de los autores:
+
+Lagunes Ramírez Derick Axel (en voz de todo el equipo):    
+
+				En este trabajo todos participaron de una buena
+				manera y todos estamos orgullosos de nuestro
+				progreso y avances, puede ser que tengamos 
+				detalles ya que nos concentramos en la función
+				y sobre todo en las validaciones pero todo 
+				mi equipo se esforzo y quiero reconocer su 
+				trabajo, sobre todo a Rosa Longardo y Mariela
+				Camacho.
+
+				Quiero decir que luchamos contra el tiempo
+				3 miembros de este equipo nos quedamos en la
+				escuela hasta la 5 de la tarde, por diferentes
+				actividades asi que el tiempo en realidad nunca
+				nos sobro, (aun seguimos con los proyectos de
+				otras materias).
+				
+				en fin nuestro proyecto es nuestro proyecto
+				tiene toda la personalidad de cada quien
+				y es unico y especial a su modo.
+	
+				Gracias.
+
+Versión del proyecto "release 1.0"
+/////////////////////
+//Lee y Aprende 1.0//
+/////////////////////
+
+notas de versión:
+
+-Cumple con puntos SA
+
+Licencia:
+
+-Creative commons 
+Atribución-NoComercial 2.5 México (CC BY-NC 2.5 MX)
+
+http://creativecommons.org/licenses/by-nc/2.5/mx/
+
